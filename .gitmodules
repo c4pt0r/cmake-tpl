@@ -1,0 +1,6 @@
+[submodule "third/googletest"]
+	path = third/googletest
+	url = https://github.com/c4pt0r/googletest.git
+[submodule "third/grpc"]
+	path = third/grpc
+	url = https://github.com/c4pt0r/grpc.git
